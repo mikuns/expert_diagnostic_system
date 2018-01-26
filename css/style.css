@@ -1,0 +1,125 @@
+.modal{
+    overflow: visible;"
+}
+.modal-body{
+    overflow-y: visible;"
+}
+#popup {
+    visibility: hidden; 
+    background-color: #62c462; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: auto ;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+
+
+#popup_f {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+
+#popup_exceed {
+    visibility: hidden; 
+    background-color: #62c462; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+#popup_nobook {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: 420px;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+
+#popup_ext {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+#popup_err {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+#popup_no_f {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    z-index: 100; 
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+
+#popup_test {
+    visibility: hidden; 
+    background-color: #bd362f; 
+    color: #ffffff;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 150; 
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    padding:10px;
+    font-size: 25px;
+}
+
+
